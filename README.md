@@ -21,8 +21,8 @@ the /data directory will be a place that will store notes, datasheets, and anyth
 
 the /drivers directory will hold the device driver files in the form
 
-   device_name.c
-   device_name.h
+	device_name.c
+	device_name.h
 
 the /projects directory will contain the project code used to create the examples.  The projects are created using Keil MDK5 on a windows platform.
 
