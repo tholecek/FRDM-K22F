@@ -50,4 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Datasheet and Note Files
+*.xlsx
 *.pptx
+*.docx
+*.pdf
+
